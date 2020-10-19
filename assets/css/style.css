@@ -8,10 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-/* .hero {
-    background-color: brown; 
-} */
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -62,16 +58,6 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-/* .float-left {
-    float: none;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-} */
 
 .content {
     width: 75%;
