@@ -18,4 +18,4 @@ This work day scheduling appplication will help you stay organized. It allows yo
 
 ## Preview
 
-![image](./work-day-scheduler)
+![image](./work-day-scheduler.JPG)
